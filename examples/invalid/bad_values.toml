@@ -1,0 +1,5 @@
+package_name = "Bad Name"
+repository = "ftp://example.com"
+test_mode = false
+version = "latest"
+output_file = "graph.jpg"
